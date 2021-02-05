@@ -1,0 +1,1 @@
+git remote command lets you create, view, and delete connections to other repositories
